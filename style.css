@@ -1,6 +1,15 @@
-#pai {
+#umpai {
     height: 50vh;
     width: 100vw;
     display: flex;
+
 }
 
+#botao {
+
+height: 40px;
+width: 114px;
+top: 44px;
+
+
+}
